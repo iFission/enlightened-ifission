@@ -6,8 +6,20 @@
   "engines": {
     "vscode": "^1.0.0"
   },
+  "homepage": "https://github.com/iFission/enlightened-ifission#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iFission/enlightened-ifission"
+  },
+  "publisher": "ifission",
+  "license": "MIT",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "enlightened",
+    "ifission",
+    "sublime"
   ],
   "contributes": {
     "themes": [
