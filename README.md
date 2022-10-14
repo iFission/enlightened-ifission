@@ -15,3 +15,5 @@ built on top of [enlightenedTheme vscode](https://github.com/talesbaz/enlightene
 
 `0.0.2`
 - add colors for [inlay hints](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/)
+`0.03`
+- change dropdown background (settings checkbox) from back to gray to improve visibility
