@@ -25,6 +25,8 @@
     "editorHoverWidget.background": "#000000",
     "editorIndentGuide.activeBackground": "#00f808",
     "editorIndentGuide.background": "#44445a55",
+    "editorInlayHint.background": "#000000",
+    "editorInlayHint.foreground": "#636e83",
     "editorLineNumber.foreground": "#ffffff5d",
     "editorMarkerNavigation.background": "#000000",
     "editorWhitespace.foreground": "#3b3a32",
